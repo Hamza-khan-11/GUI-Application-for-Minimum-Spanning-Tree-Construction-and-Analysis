@@ -40,10 +40,6 @@ The application analyzes two primary approaches to finding an MST:
 
 Clone the repository:
 
-Bash
-
-git clone https://github.com/yourusername/MST-Visualizer.git
-
 Install dependencies:
 
 Bash
@@ -65,3 +61,4 @@ Support for directed and disconnected graphs.
 Step-by-step animations of algorithm progress.
 
 Integration of Boruvka’s algorithm.
+
